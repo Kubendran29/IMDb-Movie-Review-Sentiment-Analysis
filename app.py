@@ -1,7 +1,7 @@
 import streamlit as st
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 import joblib
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+from keras.preprocessing.sequence import pad_sequences
 
 # Load the trained model and tokenizer
 model = load_model("model.h5")
