@@ -20,15 +20,15 @@ This project is an NLP-based sentiment analysis system that classifies IMDb movi
 
 ## Features
 
-    ✅ Preprocessing: Tokenization, stopword removal, and text cleaning
+*	Preprocessing: Tokenization, stopword removal, and text cleaning
     
-    ✅ Deep Learning Model: LSTM for improved sentiment understanding
+*	Deep Learning Model: LSTM for improved sentiment understanding
     
-    ✅ Graphical Analysis: Training & validation accuracy/loss graphs using Matplotlib
+*	Graphical Analysis: Training & validation accuracy/loss graphs using Matplotlib
 
-    ✅ Model Evaluation: Achieves 88% accuracy on test data
+*	Model Evaluation: Achieves 88% accuracy on test data
 
-    ✅Interactive Streamlit Web App: Users can input movie reviews and get real-time sentiment predictions
+*	Interactive Streamlit Web App: Users can input movie reviews and get real-time sentiment predictions
 
 
 ## 📂 Project Structure 
